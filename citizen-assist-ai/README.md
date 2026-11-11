@@ -38,11 +38,12 @@ Requer apenas Python 3.8+. Os arquivos `data/historico.json` e `data/atendimento
 - Mostra a melhor orientação e até 2 alternativas com pelo menos 3 pontos.
 - Pergunta, palavras-chave e título são normalizados (minúsculas, sem acentos, sem pontuação).
 
-## Integrações com outras disciplinas
-Nenhuma. (preencher se houver)
-
 ## Fontes consultadas
-(listar as páginas oficiais conferidas pela equipe e a data de cada conferência)
+| [Receita Federal](https://www.gov.br/receitafederal) | 1 — Tirar o CPF | 11/11/2026 |
+| [Tribunal Superior Eleitoral (TSE)](https://www.tse.jus.br) | 2 — Tirar o título de eleitor | 11/11/2026 |
+| [Portal gov.br](https://www.gov.br) | 3 — Criar a conta gov.br; 4 — Carteira de identidade (RG) | 11/11/2026 |
+| [Ministério da Defesa](https://www.gov.br/defesa) | 5 — Alistamento militar | 11/11/2026 |
+| [Ministério do Trabalho e Emprego](https://www.gov.br/trabalho-e-emprego) | 6 — Carteira de Trabalho Digital; 7 — Registro do contrato; 8 — Jovem Aprendiz; 9 — Vagas de emprego; 10 — Seguro-desemprego; 12 — Carteira não assinada | 11/11/2026 |
 
 ## Resultado do teste com usuários
 - Pessoas de fora da equipe: __ (mínimo 3) · Atendimentos: __ (mínimo 10)
