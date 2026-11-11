@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Tirar o CPF",
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "fazer cpf",
+      "inscricao no cpf"
+    ],
+    "resposta": "O CPF é gratuito. Pode ser pedido pelo site da Receita Federal ou em agências conveniadas, como Correios, Banco do Brasil e Caixa. Confira as regras atuais na fonte oficial.",
+    "documentos": [
+      "Documento oficial de identificação",
+      "Certidão de nascimento ou casamento"
+    ],
+    "onde": "Site da Receita Federal ou agências conveniadas",
+    "fonte": "https://www.gov.br/receitafederal",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Tirar o título de eleitor",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "tirar titulo",
+      "e-titulo",
+      "etitulo"
+    ],
+    "resposta": "O título é feito na Justiça Eleitoral. Aos 16 e 17 anos o voto é facultativo (opcional) e a partir dos 18 é obrigatório. O pedido pode começar pelo site do TSE (Título Net) ou no cartório eleitoral.",
+    "documentos": [
+      "Documento oficial com foto",
+      "Comprovante de residência",
+      "Certidão de nascimento ou casamento"
+    ],
+    "onde": "Cartório eleitoral da sua cidade ou site do TSE",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": [
+      "gov.br",
+      "govbr",
+      "conta gov",
+      "criar conta",
+      "login gov"
+    ],
+    "resposta": "A conta gov.br dá acesso a vários serviços do governo, como a Carteira de Trabalho Digital. Pode ser criada pelo app gov.br ou pelo site, usando seu CPF.",
+    "documentos": [
+      "CPF"
+    ],
+    "onde": "App gov.br ou site gov.br",
+    "fonte": "https://www.gov.br",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Tirar a carteira de identidade (RG)",
+    "palavras_chave": [
+      "rg",
+      "carteira de identidade",
+      "identidade",
+      "tirar rg",
+      "segunda via rg"
+    ],
+    "resposta": "A carteira de identidade é emitida pelo órgão de identificação do seu estado, então os passos e documentos podem mudar de um estado para outro. Veja a lista exata no site do órgão do seu estado.",
+    "documentos": [
+      "Certidão de nascimento ou casamento",
+      "CPF"
+    ],
+    "onde": "Órgão de identificação do seu estado",
+    "fonte": "https://www.gov.br",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Alistamento militar (homens aos 18 anos)",
+    "palavras_chave": [
+      "alistamento",
+      "alistamento militar",
+      "reservista",
+      "servico militar",
+      "exercito"
+    ],
+    "resposta": "O alistamento é obrigatório para homens e deve ser feito no ano em que completam 18 anos, até 30 de junho. Pode ser feito pela internet ou na Junta de Serviço Militar.",
+    "documentos": [
+      "Documento oficial com foto",
+      "CPF"
+    ],
+    "onde": "Site do alistamento on-line ou Junta de Serviço Militar",
+    "fonte": "https://www.gov.br/defesa",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Usar a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "carteira digital",
+      "ctps",
+      "carteira de trabalho digital",
+      "tirar carteira de trabalho"
+    ],
+    "resposta": "A Carteira de Trabalho agora é digital. Baixe o app Carteira de Trabalho Digital e entre com sua conta gov.br. Ali você vê seus contratos de trabalho.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "App Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Conferir se a empresa registrou meu contrato",
+    "palavras_chave": [
+      "registro",
+      "carteira assinada",
+      "contrato registrado",
+      "assinar carteira",
+      "registrar carteira"
+    ],
+    "resposta": "O empregador deve registrar seu contrato de trabalho. Você pode conferir no app Carteira de Trabalho Digital se o registro apareceu.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "App Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendiz",
+      "menor aprendiz",
+      "primeiro emprego",
+      "estagio"
+    ],
+    "resposta": "O contrato de aprendizagem é para jovens de 14 a 24 anos, com carteira assinada, e combina trabalho com curso de aprendizagem. Procure empresas e escolas de aprendizagem da sua cidade.",
+    "documentos": [
+      "Documento oficial com foto",
+      "CPF",
+      "Comprovante de matrícula escolar"
+    ],
+    "onde": "Empresas e instituições de aprendizagem da sua cidade",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 9,
+    "categoria": "Trabalho",
+    "titulo": "Procurar vagas de emprego",
+    "palavras_chave": [
+      "vagas",
+      "procurar emprego",
+      "buscar emprego",
+      "sine",
+      "emprega brasil"
+    ],
+    "resposta": "Você pode procurar vagas pelo portal Emprega Brasil ou em um posto do Sine da sua cidade.",
+    "documentos": [
+      "CPF",
+      "Carteira de Trabalho"
+    ],
+    "onde": "Portal Emprega Brasil ou posto do Sine",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos e benefícios",
+    "titulo": "Seguro-desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "seguro-desemprego",
+      "fui demitido",
+      "demissao",
+      "demitido"
+    ],
+    "resposta": "O seguro-desemprego é um benefício para quem foi demitido sem justa causa e cumpre as regras de tempo de trabalho. O pedido pode ser feito pelo app Carteira de Trabalho Digital ou pelo gov.br, dentro do prazo, que começa a contar depois da demissão.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br",
+      "Documentos da demissão"
+    ],
+    "onde": "App Carteira de Trabalho Digital ou gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 11,
+    "categoria": "Direitos e benefícios",
+    "titulo": "Consultar o FGTS",
+    "palavras_chave": [
+      "fgts",
+      "fundo de garantia",
+      "consultar fgts",
+      "saldo fgts"
+    ],
+    "resposta": "O FGTS é um dinheiro que a empresa deposita todo mês em seu nome. Você consulta o saldo no app FGTS, da Caixa.",
+    "documentos": [
+      "CPF"
+    ],
+    "onde": "App FGTS ou agência da Caixa",
+    "fonte": "https://www.caixa.gov.br",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 12,
+    "categoria": "Direitos e benefícios",
+    "titulo": "Empresa não assinou minha carteira",
+    "palavras_chave": [
+      "sem carteira assinada",
+      "nao assinou minha carteira",
+      "trabalho sem registro",
+      "empresa nao registrou",
+      "trabalho informal"
+    ],
+    "resposta": "Trabalhar sem registro prejudica seus direitos. Você pode procurar o sindicato da sua categoria, a Superintendência Regional do Trabalho do seu estado ou a Justiça do Trabalho.",
+    "documentos": [
+      "Documento oficial com foto",
+      "Provas do trabalho (mensagens, fotos, comprovantes)"
+    ],
+    "onde": "Sindicato, Superintendência Regional do Trabalho ou Justiça do Trabalho",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-11"
+  }
+]
